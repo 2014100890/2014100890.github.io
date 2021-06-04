@@ -5,7 +5,7 @@ title : '이벤트 루프'
 
 ---
 
-![./images/Eventloop.png](/images/Eventloop.png)
+![Eventloop](https://user-images.githubusercontent.com/31299657/120758179-79685880-c54c-11eb-800c-be7d9e75dd4f.png)
 
 ### 자바스크립트 엔진
 
@@ -71,7 +71,7 @@ console.log("끝")
 
 실행순서 : 시작 → 끝 → 중간
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/337a5b61-1cec-452f-a086-04549b613109/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/337a5b61-1cec-452f-a086-04549b613109/Untitled.png)
+![IMG_EC9487203917-1](https://user-images.githubusercontent.com/31299657/120757576-aec07680-c54b-11eb-9bac-2499b9deb6f0.jpeg)
 
 ```jsx
 // setTimeout 0일때 
@@ -105,7 +105,7 @@ console.log("끝")
 
 Promise는 동기이지만 .then 으로 비동기로 동작하게 됨.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37c71ed5-bd86-41e1-bfb9-b9bec211bb57/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37c71ed5-bd86-41e1-bfb9-b9bec211bb57/Untitled.png)
+![CallbackQueue](https://user-images.githubusercontent.com/31299657/120758117-69507900-c54c-11eb-879b-9d5fbae189e2.png)
 
 ### 우선순위 : Microtask Queue > Animation Frames > Task Queue
 
