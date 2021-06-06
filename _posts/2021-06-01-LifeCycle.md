@@ -79,4 +79,6 @@ component의 state나 props가 바뀌었을 때
 
 ## 컴포넌트 해체 : Unmounting
 
-컴포넌트가 마운팅 해제될 때 수행되는 함수는 componentWillUnmount() 다. 이 함수를 이용해서 컴포넌트의 동작을 위해 사용되었던 메소드들의 리소스를 제거한다. 
+컴포넌트가 마운팅 해제될 때 수행되는 함수는 componentWillUnmount() 다. 
+
+이 함수를 이용해서 컴포넌트의 동작을 위해 사용되었던 메소드들의 리소스를 제거한다. 
