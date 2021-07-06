@@ -25,3 +25,11 @@ this가 없기 때문에 this binding 사용 불가.
 
 Spread syntax
 
+
+
+
+
+
+
+
+
