@@ -1,7 +1,7 @@
 ---
 
 layout : single
-title : 'HTML Tag'
+title : 'Semantic Tag'
 
 ---
 
